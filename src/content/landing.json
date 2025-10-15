@@ -4,12 +4,12 @@
     "description": "Boost your career with a personal instructor.",
     "logo": "/images/logo.svg",
     "primaryCta": { "label": "Get in touch", "href": "#contact" },
-    "secondaryCta": { "label": "About me", "href": "#about" }
+    "secondaryCta": { "label": "About me", "href": "/about" }
   },
   "nav": [
     { "label": "Home", "href": "/" },
     { "label": "Courses", "href": "/courses" },
-    { "label": "About", "href": "#about" },
+    { "label": "About", "href": "/about" },
     { "label": "Blog", "href": "/blog" },
     { "label": "Contact", "href": "#contact" }
   ],
@@ -19,7 +19,7 @@
     "subheadline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.",
     "image": "/images/hero.jpg",
     "primaryCta": { "label": "Get in touch", "href": "#contact" },
-    "secondaryCta": { "label": "About me", "href": "#about" }
+    "secondaryCta": { "label": "About me", "href": "/about" }
   },
   "features": {
     "headline": "Boost your marketing career with a personal Google Ads instructor.",
@@ -123,9 +123,8 @@
   "footer": {
     "columns": [
       { "title": "Quick links", "links": [
-        { "label": "Courses", "href": "#courses" },
-        { "label": "About me", "href": "#about" },
-        { "label": "My account", "href": "#" }
+        { "label": "Courses", "href": "/courses" },
+        { "label": "About me", "href": "/about" }
       ]},
       { "title": "Contact", "links": [
         { "label": "WhatsApp:+34 644 519 434", "href": "tel:+34644519434" },
