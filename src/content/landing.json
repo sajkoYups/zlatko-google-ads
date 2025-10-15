@@ -57,7 +57,7 @@
   },
   "courses": {
     "headline": "Top Courses",
-    "cta": { "label": "Browse courses", "href": "#courses" },
+    "cta": { "label": "Browse courses", "href": "/courses" },
     "items": [
       {
         "category": "Google Ads",
@@ -133,8 +133,9 @@
         { "label": "Fax: +34 644 519 434", "href": "tel:+34644519434" }
       ]},
       { "title": "Top courses", "links": [
-        { "label": "Google Ads Fundamentals: From Beginner to Pro", "href": "#" },
-        { "label": "Mastering Google Ads Optimization & Scaling", "href": "#" }
+        { "label": "Google Ads Fundamentals: From Beginner to Pro", "href": "/courses/1" },
+        { "label": "Mastering Google Ads Optimization & Scaling", "href": "/courses/2" },
+        { "label": "Google Ads for Businesses: In-House Marketing Training", "href": "/courses/3" }
       ]},
       { "title": "Social", "links": [
         { "label": "Facebook", "href": "#" },
