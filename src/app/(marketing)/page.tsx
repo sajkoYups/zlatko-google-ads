@@ -1,15 +1,15 @@
-import landingContent from "../content/landing.json"
-import { Header } from "./(marketing)/components/Header"
-import { Hero } from "./(marketing)/components/Hero"
-import { FeatureGrid } from "./(marketing)/components/FeatureGrid"
-import { StatsBand } from "./(marketing)/components/StatsBand"
-import { CoursesGrid } from "./(marketing)/components/CoursesGrid"
-import { ProcessSection } from "./(marketing)/components/ProcessSection"
-import { Testimonials } from "./(marketing)/components/Testimonials"
-import { CTABanner } from "./(marketing)/components/CTABanner"
-import { Footer } from "./(marketing)/components/Footer"
+import landingContent from "../../content/landing.json"
+import { Header } from "./components/Header"
+import { Hero } from "./components/Hero"
+import { FeatureGrid } from "./components/FeatureGrid"
+import { StatsBand } from "./components/StatsBand"
+import { CoursesGrid } from "./components/CoursesGrid"
+import { ProcessSection } from "./components/ProcessSection"
+import { Testimonials } from "./components/Testimonials"
+import { CTABanner } from "./components/CTABanner"
+import { Footer } from "./components/Footer"
 
-export default function Home() {
+export default function MarketingPage() {
   return (
     <main>
       <Header 

@@ -1,0 +1,133 @@
+{
+  "site": {
+    "title": "Learn Digital Art With Andrew Nelson",
+    "description": "Boost your career with a personal instructor.",
+    "logo": "/images/logo.svg",
+    "primaryCta": { "label": "Get in touch", "href": "#contact" },
+    "secondaryCta": { "label": "About me", "href": "#about" }
+  },
+  "nav": [
+    { "label": "Home", "href": "#top" },
+    { "label": "Courses", "href": "#courses" },
+    { "label": "About", "href": "#about" },
+    { "label": "Blog", "href": "/blog" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "hero": {
+    "eyebrow": "Sydney",
+    "headline": "Learn Digital Art With Andrew Nelson.",
+    "subheadline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.",
+    "image": "/images/hero.jpg",
+    "primaryCta": { "label": "Get in touch", "href": "#contact" },
+    "secondaryCta": { "label": "About me", "href": "#about" }
+  },
+  "features": {
+    "headline": "Boost your career with a personal instructor.",
+    "items": [
+      { "title": "Full courses", "icon": "BookOpen", "copy": "" },
+      { "title": "Career planning", "icon": "Briefcase", "copy": "" },
+      { "title": "Project managing", "icon": "ClipboardList", "copy": "" },
+      { "title": "Organized classes", "icon": "LayoutGrid", "copy": "" }
+    ]
+  },
+  "stats": {
+    "headline": "Mentoring program designed with care",
+    "items": [
+      { "label": "Enrolled", "value": "1954" },
+      { "label": "Completion", "value": "1479" },
+      { "label": "Satisfaction", "value": "97%" }
+    ],
+    "cta": { "label": "Get in touch", "href": "#contact" }
+  },
+  "courses": {
+    "headline": "Top courses",
+    "cta": { "label": "Browse courses", "href": "#courses" },
+    "items": [
+      {
+        "category": "Nutrition",
+        "title": "Unlocking Wellness: Your Journey to Nutrition",
+        "image": "/images/course-1.jpg",
+        "href": "#",
+        "ctaLabel": "View course"
+      },
+      {
+        "category": "Nutrition",
+        "title": "NutriEssentials: Mastering Vital Nutrition",
+        "image": "/images/course-2.jpg",
+        "href": "#",
+        "ctaLabel": "View course"
+      },
+      {
+        "category": "Nutrition",
+        "title": "Nutrition: Build Your Perfect Diet & Meal Plan",
+        "image": "/images/course-3.jpg",
+        "href": "#",
+        "ctaLabel": "View course"
+      }
+    ]
+  },
+  "process": {
+    "headline": "How we do it",
+    "image": "/images/process.jpg",
+    "steps": [
+      { "title": "Assess", "copy": "We evaluate goals and starting point." },
+      { "title": "Plan", "copy": "We design a tailored curriculum." },
+      { "title": "Practice", "copy": "Projects and feedback loops." },
+      { "title": "Grow", "copy": "Track progress and iterate." }
+    ]
+  },
+  "testimonials": {
+    "headline": "Satisfied learners",
+    "items": [
+      {
+        "quote": "Amet minim mollit non deserunt est sit aliqua dolor do amet sint officia.",
+        "author": "Rida Dawson",
+        "role": "UX Designer",
+        "avatar": "/images/avatar-1.jpg"
+      },
+      {
+        "quote": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+        "author": "Taylor Sears",
+        "role": "UX Designer",
+        "avatar": "/images/avatar-2.jpg"
+      },
+      {
+        "quote": "Amet minim mollit non deserunt est sit aliqua dolor do amet sint.",
+        "author": "Roscoe Gilliam",
+        "role": "UX Designer",
+        "avatar": "/images/avatar-3.jpg"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "headline": "Ready to start learning?",
+    "copy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.",
+    "primaryCta": { "label": "Get in touch", "href": "#contact" }
+  },
+  "footer": {
+    "columns": [
+      { "title": "Quick links", "links": [
+        { "label": "Courses", "href": "#courses" },
+        { "label": "About me", "href": "#about" },
+        { "label": "My account", "href": "#" }
+      ]},
+      { "title": "Contact", "links": [
+        { "label": "WhatsApp:+34 644 519 434", "href": "tel:+34644519434" },
+        { "label": "Email: office@example.org", "href": "mailto:office@example.org" },
+        { "label": "Fax: +34 644 519 434", "href": "tel:+34644519434" }
+      ]},
+      { "title": "Top courses", "links": [
+        { "label": "Unlocking Wellness: Your Journey to Nutrition", "href": "#" },
+        { "label": "NutriEssentials: Mastering Vital Nutrition", "href": "#" }
+      ]},
+      { "title": "Social", "links": [
+        { "label": "Facebook", "href": "#" },
+        { "label": "Twitter", "href": "#" },
+        { "label": "LinkedIn", "href": "#" }
+      ]}
+    ],
+    "copyright": "© 2025 Sydney. Proudly powered by Sydney Pro"
+  }
+}
+
+
