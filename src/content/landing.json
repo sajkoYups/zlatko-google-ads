@@ -7,8 +7,8 @@
     "secondaryCta": { "label": "About me", "href": "#about" }
   },
   "nav": [
-    { "label": "Home", "href": "#top" },
-    { "label": "Courses", "href": "#courses" },
+    { "label": "Home", "href": "/" },
+    { "label": "Courses", "href": "/courses" },
     { "label": "About", "href": "#about" },
     { "label": "Blog", "href": "/blog" },
     { "label": "Contact", "href": "#contact" }
