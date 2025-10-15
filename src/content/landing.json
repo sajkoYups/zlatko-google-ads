@@ -22,12 +22,28 @@
     "secondaryCta": { "label": "About me", "href": "#about" }
   },
   "features": {
-    "headline": "Boost your career with a personal instructor.",
+    "headline": "Boost your marketing career with a personal Google Ads instructor.",
     "items": [
-      { "title": "Full courses", "icon": "BookOpen", "copy": "" },
-      { "title": "Career planning", "icon": "Briefcase", "copy": "" },
-      { "title": "Project managing", "icon": "ClipboardList", "copy": "" },
-      { "title": "Organized classes", "icon": "LayoutGrid", "copy": "" }
+      { 
+        "title": "Full courses", 
+        "icon": "BookOpen", 
+        "copy": "Master Google Ads from beginner to expert. Step-by-step training on campaign setup, optimization, analytics, and scaling — tailored to your business or career goals." 
+      },
+      { 
+        "title": "Career planning", 
+        "icon": "Briefcase", 
+        "copy": "Build your path in digital marketing. Get personal guidance on becoming a Google Ads freelancer, agency owner, or in-house specialist." 
+      },
+      { 
+        "title": "Project managing", 
+        "icon": "ClipboardList", 
+        "copy": "Manage real ad campaigns with expert feedback. Work on live Google Ads accounts and learn how to plan, execute, and optimize campaigns for measurable results." 
+      },
+      { 
+        "title": "Organized classes", 
+        "icon": "LayoutGrid", 
+        "copy": "Structured lessons for faster progress. Follow a clear learning path with practical assignments, live Q&A sessions, and access to templates and checklists." 
+      }
     ]
   },
   "stats": {
@@ -40,26 +56,26 @@
     "cta": { "label": "Get in touch", "href": "#contact" }
   },
   "courses": {
-    "headline": "Top courses",
+    "headline": "Top Courses",
     "cta": { "label": "Browse courses", "href": "#courses" },
     "items": [
       {
-        "category": "Nutrition",
-        "title": "Unlocking Wellness: Your Journey to Nutrition",
+        "category": "Google Ads",
+        "title": "Google Ads Fundamentals: From Beginner to Pro",
         "image": "/images/course-1.jpg",
         "href": "#",
         "ctaLabel": "View course"
       },
       {
-        "category": "Nutrition",
-        "title": "NutriEssentials: Mastering Vital Nutrition",
+        "category": "Google Ads",
+        "title": "Mastering Google Ads Optimization & Scaling",
         "image": "/images/course-2.jpg",
         "href": "#",
         "ctaLabel": "View course"
       },
       {
-        "category": "Nutrition",
-        "title": "Nutrition: Build Your Perfect Diet & Meal Plan",
+        "category": "Google Ads",
+        "title": "Google Ads for Businesses: In-House Marketing Training",
         "image": "/images/course-3.jpg",
         "href": "#",
         "ctaLabel": "View course"
@@ -117,8 +133,8 @@
         { "label": "Fax: +34 644 519 434", "href": "tel:+34644519434" }
       ]},
       { "title": "Top courses", "links": [
-        { "label": "Unlocking Wellness: Your Journey to Nutrition", "href": "#" },
-        { "label": "NutriEssentials: Mastering Vital Nutrition", "href": "#" }
+        { "label": "Google Ads Fundamentals: From Beginner to Pro", "href": "#" },
+        { "label": "Mastering Google Ads Optimization & Scaling", "href": "#" }
       ]},
       { "title": "Social", "links": [
         { "label": "Facebook", "href": "#" },

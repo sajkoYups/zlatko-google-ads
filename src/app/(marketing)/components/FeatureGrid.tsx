@@ -38,17 +38,19 @@ export function FeatureGrid({ headline, items }: FeatureGridProps) {
               <motion.div
                 key={index}
                 variants={staggerItem}
-                className="text-center"
+                whileHover={{ y: -4, scale: 1.02 }}
+                transition={{ duration: 0.2 }}
+                className="text-center group"
               >
-                <div className="w-16 h-16 bg-sky-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <IconComponent className="w-8 h-8 text-sky-600" />
+                <div className="w-20 h-20 bg-gradient-to-br from-sky-500 to-blue-600 rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-lg group-hover:shadow-xl transition-shadow duration-300">
+                  <IconComponent className="w-10 h-10 text-white" />
                 </div>
-                <h3 className="text-lg font-semibold text-slate-900 mb-2">
+                <h3 className="text-xl font-semibold text-slate-900 mb-3 group-hover:text-sky-600 transition-colors">
                   {item.title}
                 </h3>
-                {item.copy && (
-                  <p className="text-slate-600">{item.copy}</p>
-                )}
+                <p className="text-slate-600 leading-relaxed">
+                  {item.copy || "Comprehensive learning experience designed to accelerate your professional growth and skill development."}
+                </p>
               </motion.div>
             )
           })}
