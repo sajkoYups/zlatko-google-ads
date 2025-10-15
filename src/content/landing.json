@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Learn Digital Art With Andrew Nelson",
+    "title": "Learn Digital Art With Zlatko Mateski",
     "description": "Boost your career with a personal instructor.",
     "logo": "/images/logo.svg",
     "primaryCta": { "label": "Get in touch", "href": "#contact" },
@@ -15,7 +15,7 @@
   ],
   "hero": {
     "eyebrow": "Sydney",
-    "headline": "Learn Digital Art With Andrew Nelson.",
+    "headline": "Learn Digital Art With Zlatko Mateski.",
     "subheadline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.",
     "image": "/images/hero.jpg",
     "primaryCta": { "label": "Get in touch", "href": "#contact" },

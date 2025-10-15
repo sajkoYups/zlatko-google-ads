@@ -25,7 +25,7 @@ const coursesData = [
     rating: 4.9,
     price: 299,
     originalPrice: 399,
-    instructor: "Andrew Nelson",
+    instructor: "Zlatko Mateski",
     href: "#",
     longDescription: "This comprehensive course takes you from Google Ads beginner to pro level. You'll learn everything from setting up your first campaign to advanced optimization techniques that drive real results for your business or clients.",
     whatYouWillLearn: [
@@ -148,7 +148,7 @@ const coursesData = [
     rating: 4.8,
     price: 499,
     originalPrice: 599,
-    instructor: "Andrew Nelson",
+    instructor: "Zlatko Mateski",
     href: "#",
     longDescription: "This advanced course is designed for marketers who already have basic Google Ads knowledge and want to master optimization and scaling techniques. You'll learn sophisticated strategies used by top-performing agencies and in-house teams.",
     whatYouWillLearn: [
@@ -211,7 +211,7 @@ const coursesData = [
     rating: 4.7,
     price: 399,
     originalPrice: 499,
-    instructor: "Andrew Nelson",
+    instructor: "Zlatko Mateski",
     href: "#",
     longDescription: "This course is specifically designed for in-house marketing teams and business owners who want to take control of their Google Ads campaigns. Learn practical strategies that work for real businesses with real budgets and constraints.",
     whatYouWillLearn: [

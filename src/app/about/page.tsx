@@ -24,7 +24,7 @@ export default function AboutPage() {
         <section className="py-16 md:py-24 bg-slate-50">
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto text-center">
-              <Badge variant="secondary" className="mb-6">About Andrew Nelson</Badge>
+              <Badge variant="secondary" className="mb-6">About Zlatko Mateski</Badge>
               <h1 className="text-4xl md:text-6xl font-semibold text-slate-900 mb-6">
                 Your Personal Google Ads Instructor
               </h1>
@@ -69,7 +69,7 @@ export default function AboutPage() {
                   <div className="relative h-96 rounded-2xl overflow-hidden">
                     <Image
                       src="/images/about-hero.jpg"
-                      alt="Andrew Nelson teaching at Brainster"
+                      alt="Zlatko Mateski teaching at Brainster"
                       fill
                       className="object-cover"
                     />
@@ -129,7 +129,7 @@ export default function AboutPage() {
                   <div className="relative h-96 rounded-2xl overflow-hidden">
                     <Image
                       src="/images/about-seniors.jpg"
-                      alt="Andrew teaching seniors digital marketing"
+                      alt="Zlatko teaching seniors digital marketing"
                       fill
                       className="object-cover"
                     />
@@ -244,7 +244,7 @@ export default function AboutPage() {
                       ))}
                     </div>
                     <blockquote className="text-slate-600 mb-4">
-                      &ldquo;Andrew&apos;s patience and clear explanations made Google Ads finally click for me. 
+                      &ldquo;Zlatko&apos;s patience and clear explanations made Google Ads finally click for me. 
                       At 65, I never thought I&apos;d be running my own campaigns, but here I am!&rdquo;
                     </blockquote>
                     <div className="flex items-center gap-3">
@@ -264,7 +264,7 @@ export default function AboutPage() {
                       ))}
                     </div>
                     <blockquote className="text-slate-600 mb-4">
-                      &ldquo;The best instructor I&apos;ve had at Brainster. Andrew&apos;s approach to teaching 
+                      &ldquo;The best instructor I&apos;ve had at Brainster. Zlatko&apos;s approach to teaching 
                       complex concepts in simple terms is unmatched.&rdquo;
                     </blockquote>
                     <div className="flex items-center gap-3">
